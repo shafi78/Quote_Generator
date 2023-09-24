@@ -101,3 +101,12 @@ body {
     background-color: transparent;
     color: #333;
 }
+
+
+
+@media (max-width:600px){
+    .quote-box {
+        width: 100%;
+        border-radius: 100px;
+    }
+}
